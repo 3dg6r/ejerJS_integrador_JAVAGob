@@ -1,0 +1,274 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+/* NAV BAR */
+/* #nav-principal
+{
+    background-color: rgb(67, 69, 75) !important;
+    
+}
+#nav-Logo
+{
+    color: white;
+}
+#navBarText
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+#nav-text
+{
+    color: white;
+    opacity: 50%;
+}
+ */
+ #nav-tickets
+{
+    color: rgb(92, 168, 92);
+}
+
+/* carrosel DE LA PAgINA */
+#texto-imagen
+{
+    float: right;
+    left: 900px;
+    top: 400px;
+    text-align: right;
+    
+
+}
+
+.carousel-item {filter: brightness(75%);}
+
+#texto-imagen p, #texto-imagen .card-title
+{
+    position: relative;
+    font-size: 22px;
+    left: 360px;
+    width: 500px;
+    color: white;
+    
+}
+
+#btn-imagen, #texto-imagen button
+{
+
+    color: white;
+    border-color: white;
+    position: relative;
+    right: 150px;
+    
+}
+
+#btn-imagen:hover
+{
+    background-color: rgb(219, 213, 213);
+}
+
+
+/* cards */
+
+.titulo-oradores
+{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    
+}
+
+.titulo-oradores h2
+{
+    position: relative;
+    bottom: 15px;
+}
+
+#card
+{
+    position: relative;
+    left: 300px;
+}
+
+#javascript
+{
+    background-color: rgb(223, 154, 26) !important;
+    color: black;
+}
+#react
+{
+    background-color: rgb(38, 145, 180) !important;
+}
+#negocios
+{
+    background-color:rgb(83, 81, 81) !important;
+}
+#startups
+{
+    background-color: rgb(223, 65, 91) !important;
+}
+
+/* SEGUNDA IMAGEN */
+
+#imagen-total
+{
+    margin: 50px auto;
+}
+#imagen-2
+{
+    
+    width: 1000px;
+    height: 500px;
+}
+
+#texto-2
+{   
+    position: relative;
+    width: 500px;
+    right: 250px;
+    
+}
+#btn-2
+{
+    color: white;
+}
+
+/* FORMULARIO */
+
+.titulo-oradores2
+{
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+    
+}
+
+.titulo-oradores2 h2
+{
+    position: relative;
+    bottom: 15px;
+}
+
+#formulario
+{
+    position: relative;
+    left: 600px;
+}
+
+.form p
+{
+    color: gray;
+}
+#exampleFormControlInput2
+{
+    position: relative;
+    left: 400px;
+    bottom: 38px;
+}
+
+
+/* FOOTER */
+
+.footer
+{
+    background-color: rgb(6, 66, 75);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 25px;
+
+}
+
+.footer-items
+{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 140px;
+}
+
+.footer-items a
+{
+    color: white;
+    text-decoration: none;
+    border-style: none;
+}
+
+.footer-items a:hover
+{
+    color: white;
+}
+
+
+/*PAGINA 2*/
+
+/*CARDS*/
+
+#cardT
+{
+    width: 800px;
+    position: relative;
+    left: 600px;
+}
+#card1,#card2,#card3
+{
+    text-align: center;
+}
+
+#card1
+{
+    border-color: blue;
+}
+
+#card2
+{
+    border-color: aqua;
+}
+
+#card3
+{
+    border-color:rgb(223, 223, 32);
+}
+
+/*TICKETS*/
+
+#apellido
+{
+    position: relative;
+    left: 400px;
+    bottom: 38px;
+}
+#correo
+{
+    position: relative;
+    width: 750px;
+    bottom: 20px;
+
+}
+#cantidads
+{
+    position: relative;
+    
+    bottom: 10px;
+}
+#categoria, .CAT
+{
+    position: relative;
+    left: 400px;
+    bottom: 70px;
+}
+/*POR EL TIMEPO, NO RECUERDO HACER Q LOS POTONES ESTEN ALARGADO Y UNO ENTRE OTRO*/
+/* #botones 
+{
+    
+
+    
+} */
+#TOTAL
+{
+    position: relative;
+    bottom: 30px;
+    height: 75px;
+}
+
